@@ -1,8 +1,12 @@
 {
 	"name": "razor",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"private": true,
 	"scripts": {
+		"delete": "rimraf build",
+		"build": "yarn delete && yarn && yarn lint && yarn tsc",
+		"lint": "tslint src/**/*.ts* --type-check --project tsconfig.json",
+		"watch": "yarn build && yarn lint && tsc -p . --watch",
 		"start": "node node_modules/react-native/local-cli/cli.js start",
 		"test": "jest"
 	},
@@ -11,6 +15,11 @@
 		"react-native": "0.48.3"
 	},
 	"devDependencies": {
+		"typescript": "^2.5.2",
+		"@types/react": "16.0.5",
+		"@types/react-native": "^0.48.4",
+		"rimraf": "^2.6.2",
+		"tslint": "^5.7.0",
 		"babel-jest": "21.0.2",
 		"babel-preset-react-native": "3.0.2",
 		"jest": "21.1.0",
