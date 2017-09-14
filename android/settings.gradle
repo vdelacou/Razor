@@ -1,0 +1,3 @@
+rootProject.name = 'razor'
+
+include ':app'
