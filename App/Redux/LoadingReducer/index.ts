@@ -1,3 +1,4 @@
+import { LoadingAction, LoadingActionError } from '../Interface';
 
 /** This reducer allow us to know if the app is still waiting for some fetch answer
  * of if some fetch are still loading.
@@ -10,16 +11,6 @@ export const FETCH_END: String = 'FETCH_END';
 export const FETCH_ERROR: String = 'FETCH_ERROR';
 export const FETCH_CANCEL: String = 'FETCH_CANCEL';
 
-/** Interface Action Loading */
-export interface LoadingAction {
-    type: String; // one of the action defined above
-}
-
-/** Interface Action Loading with error */
-export interface LoadingActionError {
-    type: String;  // one of the action defined above mainly FETCH_ERROR
-}
-
 /** Interface State for Loading */
 export interface LoadingState {
     // if zero means no loading, when application start it's equal to -1, more than zero means we have something still waiting answer
@@ -28,25 +19,44 @@ export interface LoadingState {
     fetchError: boolean;
 }
 
-/** Action Creator when fetch start */
+/**
+ * Action Creator when fetch start
+ *
+ * @returns {LoadingAction} return action when fetch start
+ */
 export function fetchStart(): LoadingAction {
     return {
         type: FETCH_START,
     };
 }
-/** Action Creator when fetch end */
+
+/**
+ * Action Creator when fetch end
+ *
+ * @returns {LoadingAction} return action when fetch end
+ */
 export function fetchEnd(): LoadingAction {
     return {
         type: FETCH_END,
     };
 }
-/** Action Creator when fetch with error */
+
+/**
+ * Action Creator when fetch finish with error
+ *
+ * @returns {LoadingActionError} return action when fetch finish with error
+ */
 export function fetchError(): LoadingActionError {
     return {
         type: FETCH_ERROR,
     };
 }
-/** Action Creator when fetch cancel */
+
+/**
+ * Action Creator when fetch cancel
+ *
+ * @returns {LoadingAction} return action when fetch cancel
+ */
 export function fetchCancel(): LoadingAction {
     return {
         type: FETCH_CANCEL,
@@ -61,7 +71,13 @@ const initialState: LoadingState = {
     fetchError: false, // if any error appears this will be true
 };
 
-/** Reducer for loading. Take the state, and action and return the state updated if needed */
+/**
+ * Reducer for loading. Take the state, and action and return the state updated if needed
+ *
+ * @param {LoadingState} previousState the state before call the reducer, if null we use initial state
+ * @param {LoadingAction} action the action when fetch status change
+ * @returns {LoadingState} the state updated after the new fetch status
+ */
 export function loadingReducer(previousState: LoadingState = initialState, action: LoadingAction): LoadingState {
     switch (action.type) {
         case FETCH_START:

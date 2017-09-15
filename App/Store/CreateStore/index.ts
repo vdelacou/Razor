@@ -1,6 +1,7 @@
 import { createStore, combineReducers, Store, applyMiddleware, compose, Reducer } from 'redux';
 import { autoRehydrate } from 'redux-persist';
 import createSagaMiddleware from 'redux-saga';
+import { AllEffect } from 'redux-saga/effects';
 import { persistStore, PersistorConfig } from 'redux-persist';
 import { AsyncStorage } from 'react-native';
 import { logger } from 'redux-logger';
@@ -30,14 +31,11 @@ const updateReducers = <S>(store: Store<S>) => {
 };
 
 // creates the store
-function createGenericStore<S>(rootReducer: Reducer<S>, sagaFunction: () => Iterator<any>): Store<S> {
+function createGenericStore<S>(rootReducer: Reducer<S>, sagaFunction: () => IterableIterator<AllEffect>): Store<S> {
 
     /* ------------- Redux Configuration ------------- */
     const middleware = [];
     const enhancers = [];
-
-    /* ------------- Analytics Middleware ------------- */
-    // middleware.push(ScreenTracking);
 
     /* ------------- Saga Middleware ------------- */
     const sagaMiddleware = createSagaMiddleware();
@@ -70,8 +68,8 @@ function createGenericStore<S>(rootReducer: Reducer<S>, sagaFunction: () => Iter
 
 /* ------------- Assemble The Reducers ------------- */
 const customRootReducer = combineReducers({
-    beverage: beverageReducer,
-    loading: loadingReducer,
+    beverageReducer: beverageReducer,
+    loadingReducer: loadingReducer,
 });
 
 export const createCustomStore: Store<{}> = createGenericStore(customRootReducer, rootSaga);

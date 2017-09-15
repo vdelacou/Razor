@@ -1,3 +1,2 @@
 export { createCustomStore } from './CreateStore';
-export { RootReducerState } from './RootReducerState';
-
+export { RootReducerState } from './Interface';

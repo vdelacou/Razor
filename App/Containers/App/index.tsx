@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import { View } from 'react-native';
+import { Provider } from 'react-redux';
 // app component
-import { RootContainer } from '../../Containers';
+import { createCustomStore } from '../../Store';
+import { RootContainer } from '../RootContainer';
 
 /**
  * Provides an entry point into our application.  Both index.ios.js and index.android.js
@@ -28,9 +29,9 @@ class AppComponent extends Component<AppProps, AppStateProps>  {
 
     public render(): JSX.Element {
         return (
-            <View>
+            <Provider store={createCustomStore}>
                 <RootContainer />
-            </View>
+            </Provider>
         );
     }
 }

@@ -1,4 +1,4 @@
-import { HttpError } from '../HttpError';
+import { HttpError } from '../Interface';
 
 /**
  * Function to manage globaly the fetch and the api call request and answer
@@ -28,6 +28,8 @@ export async function fetchJson(url: string): Promise<ResponseApi> {
     // add the Accept and content-type header
     const requestHeaders = new Headers({ 'Accept': 'application/json' });
     requestHeaders.set('Content-Type', 'application/json');
+
+    // can add Authorization token here for example
 
     // create the request
     const request = new Request(

@@ -1,2 +1,1 @@
-
-export { GET_BEVERAGE, ResponseRest } from './RestClient';
+export { restClient, ResponseRest, GET_BEVERAGE } from './RestClient';

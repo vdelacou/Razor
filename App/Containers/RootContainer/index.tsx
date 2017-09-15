@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import { View, StatusBar, Text } from 'react-native';
+import { View, StatusBar } from 'react-native';
+// app component
+import { HomeScreen } from '../HomeScreen';
 // component style
 import { style } from './style';
 
@@ -22,7 +24,7 @@ class RootContainerComponent extends Component<RootContainerProps, RootContainer
         return (
             <View style={style.container} >
                 <StatusBar barStyle="light-content" />
-                <Text>Hello Typescript</Text>
+                <HomeScreen style={style.homeScreen} />
             </View>
         );
     }
