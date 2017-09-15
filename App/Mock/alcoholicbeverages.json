@@ -1,0 +1,1776 @@
+[{
+        "nm": "99 Berries",
+        "cat": "Berry liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Advocaat",
+        "cat": "Other liqueurs",
+        "dsc": "egg yolks and vanilla"
+    },
+    {
+        "nm": "Afinata",
+        "cat": "Berry liqueurs",
+        "dsc": "bilberry"
+    },
+    {
+        "nm": "Afrikoko",
+        "cat": "Chocolate liqueurs",
+        "dsc": "coconut and chocolate"
+    },
+    {
+        "nm": "After Shock",
+        "cat": "Other liqueurs",
+        "dsc": "several varieties, the most popular of which is cinnamon"
+    },
+    {
+        "nm": "Agnes",
+        "cat": "Other liqueurs",
+        "dsc": "orange peels, apples, vanilla and caraway seeds"
+    },
+    {
+        "nm": "Allen's Coffee Brandy",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Alomo Kasaprenco-Ghana",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Alpestre-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Altvater",
+        "cat": "Other herbal liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Amabilli",
+        "cat": "Fruit liqueurs",
+        "dsc": "banana"
+    },
+    {
+        "nm": "Amaretto",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "almonds, or the almond-like kernels from apricots, peaches, cherries, or similar stone fruits"
+    },
+    {
+        "nm": "Amaro",
+        "cat": "Other herbal liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Amarula",
+        "cat": "Cream liqueurs",
+        "dsc": "sugar, cream, and the fruit of the African marula tree"
+    },
+    {
+        "nm": "Amarula-African liqueur",
+        "cat": "Fruit liqueurs",
+        "dsc": "marula fruit"
+    },
+    {
+        "nm": "Angelika Bitter",
+        "cat": "Other herbal liqueurs",
+        "dsc": "11 herbs, especially Angelica archangelica"
+    },
+    {
+        "nm": "Anís-Spain, Argentina",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Anisetta-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Anisette-France",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Appenzeller",
+        "cat": "Other herbal liqueurs",
+        "dsc": "42 herbs"
+    },
+    {
+        "nm": "Arakú",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Armada",
+        "cat": "Other liqueurs",
+        "dsc": "spices and fruit"
+    },
+    {
+        "nm": "Arquebuse de l'Hermitage-France",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Arrabidine",
+        "cat": "Berry liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Aruba Arehucas",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Ashanti Gold",
+        "cat": "Chocolate liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Atholl Brose",
+        "cat": "Whisky liqueurs",
+        "dsc": "Scotch whisky, Benromach single malt spirit, honey, secret spice recipe, from Gordon & Macphail"
+    },
+    {
+        "nm": "Aurum",
+        "cat": "Fruit liqueurs",
+        "dsc": "rum, tea, and tangerines"
+    },
+    {
+        "nm": "Aurum",
+        "cat": "Other liqueurs",
+        "dsc": "rum, tea, and tangerines"
+    },
+    {
+        "nm": "Baczewski",
+        "cat": "Other liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Bahia Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Baileys Irish Cream",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Baja Rosa",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Bajtra-Maltese liqueur",
+        "cat": "Fruit liqueurs",
+        "dsc": "prickly pear"
+    },
+    {
+        "nm": "Bärenfang",
+        "cat": "Other liqueurs",
+        "dsc": "honey"
+    },
+    {
+        "nm": "Bärenjäger",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Becherovka",
+        "cat": "Other herbal liqueurs",
+        "dsc": "anise seeds, cinnamon, and other herbs"
+    },
+    {
+        "nm": "Beirão",
+        "cat": "Other herbal liqueurs",
+        "dsc": "seeds and herbs from around the world"
+    },
+    {
+        "nm": "Bellota",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "acorns"
+    },
+    {
+        "nm": "Bénédictine",
+        "cat": "Other herbal liqueurs",
+        "dsc": "27 plants and spices"
+    },
+    {
+        "nm": "Bicabagaço - Coffee Liqueur and Pomace Brandy",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Bicerin Di Giandujotto",
+        "cat": "Chocolate liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Black Forest Devil, called Schwarzwald-Teufel in Germany, uses over 42 herbs including St.John's wor",
+        "cat": "Other herbal liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Bloody Oath",
+        "cat": "Other liqueurs",
+        "dsc": "vodka, herbs and spices"
+    },
+    {
+        "nm": "boilo",
+        "cat": "Whisky liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Boilo, a homemade Christmas liqueur from the Pennsylvania coal region.",
+        "cat": "Other herbal liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Bols Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Brandymel",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Bruadar",
+        "cat": "Whisky liqueurs",
+        "dsc": "Scotch whisky, honey, sloe"
+    },
+    {
+        "nm": "Cadbury Cream Liqueur",
+        "cat": "Chocolate cream liqueur",
+        "dsc": ""
+    },
+    {
+        "nm": "Café Aztec",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Café Britt Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Café Marakesh",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Café Oriental",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Café Rica",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Caffè Borghetti",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Calisaya",
+        "cat": "Other herbal liqueurs",
+        "dsc": "liqueur"
+    },
+    {
+        "nm": "Campari",
+        "cat": "Other liqueurs",
+        "dsc": "bitter and aromatic herbs, plants, and fruit"
+    },
+    {
+        "nm": "Canton",
+        "cat": "Other herbal liqueurs",
+        "dsc": "spirits, brandy, six varieties of ginger, ginseng, and honey"
+    },
+    {
+        "nm": "Cape Velvet",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Carolans",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Castries Peanut Rum Creme",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "peanut"
+    },
+    {
+        "nm": "Centerba-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": "infusion of 100 high mountain herbs"
+    },
+    {
+        "nm": "Chambord",
+        "cat": "Berry liqueurs",
+        "dsc": "raspberry"
+    },
+    {
+        "nm": "Chartreuse",
+        "cat": "Other herbal liqueurs",
+        "dsc": "130 herbal extracts"
+    },
+    {
+        "nm": "Cherry Heering",
+        "cat": "Fruit liqueurs",
+        "dsc": "cherry"
+    },
+    {
+        "nm": "Cock o' the North",
+        "cat": "Whisky liqueurs",
+        "dsc": "single malt, blaeberry"
+    },
+    {
+        "nm": "Cointreau",
+        "cat": "Fruit liqueurs",
+        "dsc": "orange"
+    },
+    {
+        "nm": "Coloma",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Combier",
+        "cat": "Fruit liqueurs",
+        "dsc": "orange"
+    },
+    {
+        "nm": "Copa De Oro",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Cosa Gialla",
+        "cat": "Fruit liqueurs",
+        "dsc": "citrus fruits"
+    },
+    {
+        "nm": "Cosa Nera-Italy [1]",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crema di Fragole",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de cacao",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de cassis",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de cassis",
+        "cat": "Berry liqueurs",
+        "dsc": "blackcurrant"
+    },
+    {
+        "nm": "Crème de Cerise",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Creme de la Creme Maple Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de menthe",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de mûre",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de Noyaux",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de Rose",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de Rose",
+        "cat": "Flower liqueurs",
+        "dsc": "rose"
+    },
+    {
+        "nm": "Creme de violette",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Crème de violette",
+        "cat": "Flower liqueurs",
+        "dsc": "violet"
+    },
+    {
+        "nm": "Crème Yvette",
+        "cat": "Flower liqueurs",
+        "dsc": "violet, vanilla"
+    },
+    {
+        "nm": "Cruzan Rum Cream",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Cuarenta Y Tres/Licor 43",
+        "cat": "Fruit liqueurs",
+        "dsc": "citrus, vanilla"
+    },
+    {
+        "nm": "Curaçao",
+        "cat": "Fruit liqueurs",
+        "dsc": "bitter orange"
+    },
+    {
+        "nm": "Cynar",
+        "cat": "Other liqueurs",
+        "dsc": "artichoke and other herbs and plants"
+    },
+    {
+        "nm": "Damiana",
+        "cat": "Other liqueurs",
+        "dsc": "herb of the same name"
+    },
+    {
+        "nm": "Damson gin",
+        "cat": "Fruit liqueurs",
+        "dsc": "damson"
+    },
+    {
+        "nm": "Danzig Goldwasser",
+        "cat": "Other herbal liqueurs",
+        "dsc": "gold leaf, roots, and herbs"
+    },
+    {
+        "nm": "DARK, American-made, all natural coffee liqueur from Prairie Wolf Spirits Distillery",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "De Kuyper Crème de Café",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "DeKuyper Pomegranate",
+        "cat": "Fruit liqueurs",
+        "dsc": "pomegranate"
+    },
+    {
+        "nm": "Demänovka",
+        "cat": "Other herbal liqueurs",
+        "dsc": "14 herbs and honey"
+    },
+    {
+        "nm": "Destinee",
+        "cat": "Fruit liqueurs",
+        "dsc": "tropical fruit"
+    },
+    {
+        "nm": "Dimmi-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": "infusion of Italian Absinthe, Anise, Vanilla, Ginseng, Rhubarb, Bitter Orange, Apricot and Peach Blossom"
+    },
+    {
+        "nm": "Disaronno",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "almonds"
+    },
+    {
+        "nm": "Djangoa",
+        "cat": "Chocolate liqueurs",
+        "dsc": "with a hint of anise"
+    },
+    {
+        "nm": "Dooley's",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Drambuie",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Drambuie",
+        "cat": "Whisky liqueurs",
+        "dsc": "Scotch, heather honey, herbs, and spices"
+    },
+    {
+        "nm": "Drumgray Highland Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Duchalet Café Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Dulce de Leche Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": "Caribbean rum, caramel and cream"
+    },
+    {
+        "nm": "Dumante",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "pistachio"
+    },
+    {
+        "nm": "Dwersteg's Organic Amaretto Liqueur",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "organic liqueur with distillate from almond kernels"
+    },
+    {
+        "nm": "Dwersteg's Organic Chocolate Cream Liqueur",
+        "cat": "Chocolate cream liqueur",
+        "dsc": ""
+    },
+    {
+        "nm": "Dwersteg's Organic Coffee Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Dwersteg's Organic Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Dwersteg's Organic Orange Liqueur",
+        "cat": "Fruit liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Eblana",
+        "cat": "Whisky liqueurs",
+        "dsc": "Irish whiskey, coffee, honey, almond, peanut"
+    },
+    {
+        "nm": "Emmets Classic Cream: Irelands Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Espiritu del Ecuador",
+        "cat": "Fruit liqueurs",
+        "dsc": "20 Ecuadoran fruits, including peach, chocolate, cherry, and almond"
+    },
+    {
+        "nm": "Espresso Bohême",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Evan Williams Honey Reserve - Evan Williams",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Everglo",
+        "cat": "Other herbal liqueurs",
+        "dsc": "tequila, vodka, caffeine, and ginseng"
+    },
+    {
+        "nm": "FAIR. Café Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "FAIR. Goji Liqueur",
+        "cat": "Berry liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Famous Grouse liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Scotch, bourbon, citrus, spices"
+    },
+    {
+        "nm": "Fernet",
+        "cat": "Other herbal liqueurs",
+        "dsc": "myrrh, rhubarb, chamomile, cardamom, aloe, and saffron"
+    },
+    {
+        "nm": "Fior d'Alpi",
+        "cat": "Flower liqueurs",
+        "dsc": "alpine flowers, herbs"
+    },
+    {
+        "nm": "Fireball Cinnamon Whisky",
+        "cat": "Whisky liqueurs",
+        "dsc": "Canadian whisky, cinnamon, spices"
+    },
+    {
+        "nm": "Fläminger Jagd",
+        "cat": "Other herbal liqueurs",
+        "dsc": "38 herbs"
+    },
+    {
+        "nm": "Florcello Chocolate Orange Cream Liqueur",
+        "cat": "Chocolate cream liqueur",
+        "dsc": ""
+    },
+    {
+        "nm": "Forty Creek Premium Cream Liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Canadian whisky, vanilla, chocolate, caramel"
+    },
+    {
+        "nm": "Frangelico",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "hazelnuts and herbs"
+    },
+    {
+        "nm": "Fruko-Schulz",
+        "cat": "Fruit liqueurs",
+        "dsc": "Mango Liqueur"
+    },
+    {
+        "nm": "Fruko-Schulz Bitter",
+        "cat": "Other herbal liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Fruko-Schulz Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Fruko-Schulz Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Gabriel",
+        "cat": "Other liqueurs",
+        "dsc": "cinnamon, apple, black pepper and peppermint"
+    },
+    {
+        "nm": "Galliano",
+        "cat": "Other herbal liqueurs",
+        "dsc": "30 herbs"
+    },
+    {
+        "nm": "Galliano Ristretto",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Galliano-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Génépi",
+        "cat": "Other liqueurs",
+        "dsc": "alpine flower of the same name"
+    },
+    {
+        "nm": "Ginjinha",
+        "cat": "Fruit liqueurs",
+        "dsc": "cherry"
+    },
+    {
+        "nm": "Glayva",
+        "cat": "Whisky liqueurs",
+        "dsc": "Scotch, Seville oranges, spices, herbs, and honey"
+    },
+    {
+        "nm": "Glenfiddich Malt liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Scotch, citrus, pear, brown sugar"
+    },
+    {
+        "nm": "Glenturret Malt liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Glenturret single malt, honey, spices"
+    },
+    {
+        "nm": "Godiva Dark Chocolate",
+        "cat": "Chocolate liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Godiva White Chocolate",
+        "cat": "Chocolate cream liqueur",
+        "dsc": ""
+    },
+    {
+        "nm": "Goldschläger",
+        "cat": "Other herbal liqueurs",
+        "dsc": "cinnamon, with gold leaf"
+    },
+    {
+        "nm": "Grand Marnier",
+        "cat": "Fruit liqueurs",
+        "dsc": "orange"
+    },
+    {
+        "nm": "GranGala",
+        "cat": "Fruit liqueurs",
+        "dsc": "orange"
+    },
+    {
+        "nm": "Grapèro",
+        "cat": "Fruit liqueurs",
+        "dsc": "pink grapefruit"
+    },
+    {
+        "nm": "Guavaberry",
+        "cat": "Berry liqueurs",
+        "dsc": "guavaberry"
+    },
+    {
+        "nm": "Guignolet",
+        "cat": "Fruit liqueurs",
+        "dsc": "wild cherry"
+    },
+    {
+        "nm": "Hare Turkish Coffee Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Hare Visne",
+        "cat": "Fruit liqueurs",
+        "dsc": "sour cherry"
+    },
+    {
+        "nm": "Heather Cream",
+        "cat": "Cream liqueurs",
+        "dsc": "A Scottish Cream Liqueur"
+    },
+    {
+        "nm": "Heaven Hill Evan Williams cherry, honey and apple orchard variations",
+        "cat": "Whisky liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Herbsaint-United States",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Hesperidina",
+        "cat": "Fruit liqueurs",
+        "dsc": "bitter orange"
+    },
+    {
+        "nm": "Hideous",
+        "cat": "Berry liqueurs",
+        "dsc": "potato neutral spirit, with added natural flavors derived from berries grown in the state of Washington [including raspberries and other berries] and citrus fruits"
+    },
+    {
+        "nm": "Hideous",
+        "cat": "Fruit liqueurs",
+        "dsc": "potato neutral spirit, with added natural flavors derived from berries grown in the state of Washington [including raspberries and other berries] and citrus fruits"
+    },
+    {
+        "nm": "Hierbas de Mallorca-Majorca",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Hpnotiq",
+        "cat": "Fruit liqueurs",
+        "dsc": "tropical fruit"
+    },
+    {
+        "nm": "Hpnotiq Harmonie",
+        "cat": "Flower liqueurs",
+        "dsc": "violet, lavender, berries"
+    },
+    {
+        "nm": "illy Espresso Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Irish Mist",
+        "cat": "Whisky liqueurs",
+        "dsc": "aged Irish whiskey, heather and clover honey, aromatic herbs, and other spirits"
+    },
+    {
+        "nm": "Izarra",
+        "cat": "Other liqueurs",
+        "dsc": "numerous herbs and other flavorings"
+    },
+    {
+        "nm": "Jaan Paan Liqueur",
+        "cat": "Other herbal liqueurs",
+        "dsc": "sweet paan flavored"
+    },
+    {
+        "nm": "Jabuticaba liqueur",
+        "cat": "Fruit liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Jack Daniel's Tennessee Honey",
+        "cat": "Whisky liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Jägermeister",
+        "cat": "Other herbal liqueurs",
+        "dsc": "56 herbs"
+    },
+    {
+        "nm": "Jamaica Blue Mountain Mist from J. Wray & Nephew",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Jeremiah Weed",
+        "cat": "Whisky liqueurs",
+        "dsc": "Bourbon whiskey, orange, vanilla"
+    },
+    {
+        "nm": "Jim Beam Honey",
+        "cat": "Whisky liqueurs",
+        "dsc": "Jim Beam bourbon, honey"
+    },
+    {
+        "nm": "Jim Beam Red Stag",
+        "cat": "Whisky liqueurs",
+        "dsc": "Jim Beam bourbon with other flavorings ? variations include black cherry, honey tea, and cinnamon spiced"
+    },
+    {
+        "nm": "Jumbie",
+        "cat": "Other liqueurs",
+        "dsc": "rum liqueur"
+    },
+    {
+        "nm": "Kahana Royale",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "macadamia nut"
+    },
+    {
+        "nm": "Kahlúa",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Kajmir",
+        "cat": "Other liqueurs",
+        "dsc": "vanilla, brandy, and vodka"
+    },
+    {
+        "nm": "Kaloré",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Kamora",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Kännu Kukk",
+        "cat": "Other liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Kapali",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "KeKe Beach",
+        "cat": "Fruit liqueurs",
+        "dsc": "lime cream"
+    },
+    {
+        "nm": "Keke Beach Key Lime Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Keuck Türkisch Mokka",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Killepitsch",
+        "cat": "Other herbal liqueurs",
+        "dsc": "combination of 90 fruits, berries, herbs, and spices"
+    },
+    {
+        "nm": "Kona Gold",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Kosaken Kaffee",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Kru-kovac",
+        "cat": "Fruit liqueurs",
+        "dsc": "pear"
+    },
+    {
+        "nm": "Krupnik",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Krupnik",
+        "cat": "Other herbal liqueurs",
+        "dsc": "honey and up to 50 different herbs"
+    },
+    {
+        "nm": "Kümmel",
+        "cat": "Other herbal liqueurs",
+        "dsc": "caraway seed, cumin, and fennel"
+    },
+    {
+        "nm": "Kwai Feh",
+        "cat": "Fruit liqueurs",
+        "dsc": "lychee"
+    },
+    {
+        "nm": "Lakka",
+        "cat": "Berry liqueurs",
+        "dsc": "cloudberry"
+    },
+    {
+        "nm": "Lauterer Luft",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Lavender Liqueur",
+        "cat": "Flower liqueurs",
+        "dsc": "lavender"
+    },
+    {
+        "nm": "Leroux Coffee-Flavored Brandy.",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Lichido",
+        "cat": "Fruit liqueurs",
+        "dsc": "vodka, cognac, lychee and guava essences, and white peach juice"
+    },
+    {
+        "nm": "Licor de oro",
+        "cat": "Other liqueurs",
+        "dsc": "whey, saffron and lemon peel"
+    },
+    {
+        "nm": "Lillehammer",
+        "cat": "Berry liqueurs",
+        "dsc": "lingonberry"
+    },
+    {
+        "nm": "Limoncello",
+        "cat": "Fruit liqueurs",
+        "dsc": "lemon liqueur"
+    },
+    {
+        "nm": "Liqueur de Rose",
+        "cat": "Flower liqueurs",
+        "dsc": "rose"
+    },
+    {
+        "nm": "Liqueur Fogg",
+        "cat": "Chocolate liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Liqueurs de Sodabi - NeHo Likors",
+        "cat": "Other liqueurs",
+        "dsc": "Distilled then flavoured palm-wine. Flavours include banana, cinnamon, pineapple, passion fruit Made by NeHo Likors in Togo"
+    },
+    {
+        "nm": "Lochan Ora",
+        "cat": "Whisky liqueurs",
+        "dsc": "Chivas, honey, herbs and spices"
+    },
+    {
+        "nm": "Løiten Aquavit Likør",
+        "cat": "Other herbal liqueurs",
+        "dsc": "matured aquavit with herbs"
+    },
+    {
+        "nm": "Ly Shan",
+        "cat": "Fruit liqueurs",
+        "dsc": "lychee"
+    },
+    {
+        "nm": "Mandarine Napoleon",
+        "cat": "Fruit liqueurs",
+        "dsc": "mandarin"
+    },
+    {
+        "nm": "Manzana verde",
+        "cat": "Fruit liqueurs",
+        "dsc": "green apple"
+    },
+    {
+        "nm": "Maraschino",
+        "cat": "Fruit liqueurs",
+        "dsc": "cherry"
+    },
+    {
+        "nm": "Marburger Nachtwächter, 38 herbs, made since 1799 in Marburg, Germany",
+        "cat": "Other herbal liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Mastica",
+        "cat": "Other herbal liqueurs",
+        "dsc": "mastic resin"
+    },
+    {
+        "nm": "Mastichato",
+        "cat": "Other herbal liqueurs",
+        "dsc": "mastic resin"
+    },
+    {
+        "nm": "McCormick's Irish Cream",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Medronho",
+        "cat": "Fruit liqueurs",
+        "dsc": "strawberry tree/arbutus"
+    },
+    {
+        "nm": "Meikueilu Chiew",
+        "cat": "Flower liqueurs",
+        "dsc": "Mey Kwei Loo Liqueur"
+    },
+    {
+        "nm": "Menta",
+        "cat": "Other herbal liqueurs",
+        "dsc": "peppermint liqueur"
+    },
+    {
+        "nm": "Merlyn Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Mesi",
+        "cat": "Other liqueurs",
+        "dsc": "honey"
+    },
+    {
+        "nm": "Metaxa",
+        "cat": "Other herbal liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Midori",
+        "cat": "Fruit liqueurs",
+        "dsc": "melon"
+    },
+    {
+        "nm": "Minttu",
+        "cat": "Other herbal liqueurs",
+        "dsc": "peppermint"
+    },
+    {
+        "nm": "Miodówka",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Mistrà-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Mokatika",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Mozart Black",
+        "cat": "Chocolate liqueurs",
+        "dsc": "dark chocolate"
+    },
+    {
+        "nm": "Mozart Gold Chocolate Cream",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Mozart Gold Chocolate Cream Liqueur",
+        "cat": "Chocolate cream liqueur",
+        "dsc": ""
+    },
+    {
+        "nm": "Mozart White Chocolate Cream",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Mozart White Chocolate Cream Liqueur",
+        "cat": "Chocolate cream liqueur",
+        "dsc": ""
+    },
+    {
+        "nm": "Mr. Boston Coffee-Flavored Brandy.",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Murray Scottish Highland Liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Scotch, honey, sloe"
+    },
+    {
+        "nm": "Murtado",
+        "cat": "Berry liqueurs",
+        "dsc": "ugniberry"
+    },
+    {
+        "nm": "My Rose",
+        "cat": "Flower liqueurs",
+        "dsc": "rose, with a whole rose in the bottle"
+    },
+    {
+        "nm": "Mystic Bourbon Liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Bourbon, honey, spices"
+    },
+    {
+        "nm": "Nocello",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "walnut and hazelnut"
+    },
+    {
+        "nm": "Nocino",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "unripe green walnuts"
+    },
+    {
+        "nm": "Noyau de Poissy",
+        "cat": "Fruit liqueurs",
+        "dsc": "apricot"
+    },
+    {
+        "nm": "NUVO",
+        "cat": "Fruit liqueurs",
+        "dsc": "fruit nectars and sparkling chardonnay and pinot noir wines"
+    },
+    {
+        "nm": "O'Leary's Irish Cream",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Ogidiga-Nigeria",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Old Pulteney liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Old Pulteney single malt, prune, spices"
+    },
+    {
+        "nm": "Onyx Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Orangerie",
+        "cat": "Whisky liqueurs",
+        "dsc": "Scotch, oranges, spices"
+    },
+    {
+        "nm": "Osomo-Nigeria",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Paan",
+        "cat": "Other herbal liqueurs",
+        "dsc": "betel leaf, betel nuts, saffron, cardamom, sandalwood, and other herbs and spices"
+    },
+    {
+        "nm": "Palm wine",
+        "cat": "Other liqueurs",
+        "dsc": "coconut wine"
+    },
+    {
+        "nm": "PAMA",
+        "cat": "Fruit liqueurs",
+        "dsc": "pomegranate"
+    },
+    {
+        "nm": "Parfait d'Amour",
+        "cat": "Crème liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Passione Nera-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Passoã",
+        "cat": "Fruit liqueurs",
+        "dsc": "passion fruit; also comes in mango, pineapple, and coconut flavors"
+    },
+    {
+        "nm": "Pastis-France",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Patron XO CAFE",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Patxaran",
+        "cat": "Other liqueurs",
+        "dsc": "sloe berries, coffee beans, and vanilla pod"
+    },
+    {
+        "nm": "Patxaran-Spain",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Peanut liqueur",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Peanut Lolita",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "peanut"
+    },
+    {
+        "nm": "Pernod Fils",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Pernod Ricard",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Pimento",
+        "cat": "Other liqueurs",
+        "dsc": "not the peppers stuffed into olives, but Allspice. Made in Jamaica by Wray and Nephews"
+    },
+    {
+        "nm": "Pisang Ambon",
+        "cat": "Fruit liqueurs",
+        "dsc": "banana"
+    },
+    {
+        "nm": "Polar Cranberry",
+        "cat": "Berry liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Ponche Caribe",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Ponche crema",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Ponche Diva",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Ponche Kuba",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Prunelle",
+        "cat": "Berry liqueurs",
+        "dsc": "sloe"
+    },
+    {
+        "nm": "Pucker",
+        "cat": "Fruit liqueurs",
+        "dsc": "apple"
+    },
+    {
+        "nm": "Qi",
+        "cat": "Other liqueurs",
+        "dsc": "lapsang souchong tea, fruits, spices, and Chardonnay brandy"
+    },
+    {
+        "nm": "Qi White",
+        "cat": "Other liqueurs",
+        "dsc": "orange, ginger, clove, other herbs and spices, and white tea"
+    },
+    {
+        "nm": "Raki-Turkey",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Ratafia",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "brandy flavored with almonds, fruit, or fruit kernels?also a flavored biscuit"
+    },
+    {
+        "nm": "Razzmatazz",
+        "cat": "Berry liqueurs",
+        "dsc": "raspberry"
+    },
+    {
+        "nm": "Rhythm",
+        "cat": "Fruit liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Riga Black Balsam",
+        "cat": "Other herbal liqueurs",
+        "dsc": "Rigas Melnais Balzams"
+    },
+    {
+        "nm": "Rivulet",
+        "cat": "Nut-flavored liqueurs",
+        "dsc": "Pecan"
+    },
+    {
+        "nm": "Rock and Rye",
+        "cat": "Whisky liqueurs",
+        "dsc": "American rye whiskey, citrus, rock candy"
+    },
+    {
+        "nm": "Rompope",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Ron Miel",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Rosolio",
+        "cat": "Flower liqueurs",
+        "dsc": "rose"
+    },
+    {
+        "nm": "Rossbacher",
+        "cat": "Other herbal liqueurs",
+        "dsc": "Herbs, Roots and Berries from around the world"
+    },
+    {
+        "nm": "Royal Mint-Chocolate Liqueur",
+        "cat": "Chocolate liqueurs",
+        "dsc": "French"
+    },
+    {
+        "nm": "RumChata",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Rumpleminze",
+        "cat": "Other liqueurs",
+        "dsc": "peppermint"
+    },
+    {
+        "nm": "Sabra",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Sabra liqueur",
+        "cat": "Chocolate liqueurs",
+        "dsc": "dark chocolate and Jaffa oranges"
+    },
+    {
+        "nm": "Sabroso",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Saint Brendan's Irish Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Salmiakki Koskenkorva",
+        "cat": "Other liqueurs",
+        "dsc": "Salmiakkikossu, salmari"
+    },
+    {
+        "nm": "Sambuca-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Sangster's",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Sève Fournier-Champagne cognac, cocoa sap, vanilla, iris, and plant extracts",
+        "cat": "Other liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Shan Hibiscus",
+        "cat": "Flower liqueurs",
+        "dsc": "hibiscus, coconut"
+    },
+    {
+        "nm": "Shan Lotus",
+        "cat": "Flower liqueurs",
+        "dsc": "lotus, passion fruit"
+    },
+    {
+        "nm": "Shan Rose",
+        "cat": "Flower liqueurs",
+        "dsc": "rose, lychee"
+    },
+    {
+        "nm": "Sheridan's",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Sloe gin",
+        "cat": "Berry liqueurs",
+        "dsc": "sloe"
+    },
+    {
+        "nm": "SomruS, Nectar of Gods - The Original Indian Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Sorel",
+        "cat": "Other liqueurs",
+        "dsc": "clove, cassia, ginger, nutmeg, hibiscus"
+    },
+    {
+        "nm": "Sortilège Maple Whiskey Liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Canadian whisky, maple syrup"
+    },
+    {
+        "nm": "Southern Comfort",
+        "cat": "Other liqueurs",
+        "dsc": "neutral grain spirits with whiskey, peach, orange and spice flavorings"
+    },
+    {
+        "nm": "St-Germain",
+        "cat": "Flower liqueurs",
+        "dsc": "elderflower"
+    },
+    {
+        "nm": "St. Hubertus",
+        "cat": "Other herbal liqueurs",
+        "dsc": "liqueur"
+    },
+    {
+        "nm": "Stag's Breath",
+        "cat": "Whisky liqueurs",
+        "dsc": "Speyside malts and fermented comb honey"
+    },
+    {
+        "nm": "Starbucks Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Starbucks Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Strega",
+        "cat": "Other herbal liqueurs",
+        "dsc": "70 herbs, including mint, fennel, and saffron"
+    },
+    {
+        "nm": "Tennessee Honey-Jack Daniel's",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Tequila Rose",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "The Evil Monk[1]",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Thornton's Chocolate Liqueur",
+        "cat": "Chocolate liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Tia Maria",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Toussaint Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Triple sec",
+        "cat": "Fruit liqueurs",
+        "dsc": "orange"
+    },
+    {
+        "nm": "Tsipouro",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": "anise-flavored version"
+    },
+    {
+        "nm": "Tuaca",
+        "cat": "Other liqueurs",
+        "dsc": "brandy, vanilla, and citrus"
+    },
+    {
+        "nm": "TY KU",
+        "cat": "Other liqueurs",
+        "dsc": "Asian spirit base (sake and soju"
+    },
+    {
+        "nm": "TY KU",
+        "cat": "Fruit liqueurs",
+        "dsc": "yuzu, honeydew, mangosteen, ginseng, green tea, goji berry"
+    },
+    {
+        "nm": "Umeshu",
+        "cat": "Fruit liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Underberg a German digestif bitter",
+        "cat": "Other herbal liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Underground",
+        "cat": "Other herbal liqueurs",
+        "dsc": "liqueur"
+    },
+    {
+        "nm": "Unicum",
+        "cat": "Other herbal liqueurs",
+        "dsc": "more than 40 herbs"
+    },
+    {
+        "nm": "Van der Hum",
+        "cat": "Fruit liqueurs",
+        "dsc": "tangerines, herbs, spices, seeds and barks"
+    },
+    {
+        "nm": "Vana Tallinn",
+        "cat": "Other liqueurs",
+        "dsc": "rum, citrus oil, vanilla, cinnamon, and other spices"
+    },
+    {
+        "nm": "Vana Tallinn Chocolate Cream",
+        "cat": "Chocolate cream liqueur",
+        "dsc": ""
+    },
+    {
+        "nm": "Vana Tallinn Cream",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "VeeV",
+        "cat": "Berry liqueurs",
+        "dsc": "açaí"
+    },
+    {
+        "nm": "Vermeer Dutch Chocolate Cream Liqueur",
+        "cat": "Chocolate cream liqueur",
+        "dsc": ""
+    },
+    {
+        "nm": "Vermeer Dutch Chocolate Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Vespetrò-Italy",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Vi-inata",
+        "cat": "Fruit liqueurs",
+        "dsc": "sour cherry"
+    },
+    {
+        "nm": "Vibe Robusta Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Vok Banana Liqueur",
+        "cat": "Fruit liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Vok Coffee Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Vok Melon Liqueur",
+        "cat": "Fruit liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "VOODOO Cream Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Vov",
+        "cat": "Other liqueurs",
+        "dsc": "egg yolk, sugar and marsala wine"
+    },
+    {
+        "nm": "Voyant Chai Cream",
+        "cat": "Cream liqueurs",
+        "dsc": "a chai-flavoured liqueur containing oak-aged rum, cream, black tea, vanilla, and spices"
+    },
+    {
+        "nm": "Voyant Chai Cream",
+        "cat": "Other liqueurs",
+        "dsc": "a chai-flavoured liqueur containing oak-aged rum, cream, black tea, vanilla, and spices"
+    },
+    {
+        "nm": "Walders Scotch and Coffee Creamy Liqueur",
+        "cat": "Coffee liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Walders Scotch and Coffee Creamy Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Walders Vodka and Vanilla Creamy Liqueur",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Wallace Liqueur",
+        "cat": "Whisky liqueurs",
+        "dsc": "Deanston single malt, Scottish berries, French herbs"
+    },
+    {
+        "nm": "Whidbeys",
+        "cat": "Berry liqueurs",
+        "dsc": "loganberry"
+    },
+    {
+        "nm": "Wild Turkey American Honey",
+        "cat": "Whisky liqueurs",
+        "dsc": "Wild Turkey (bourbon"
+    },
+    {
+        "nm": "Wisniówka",
+        "cat": "Fruit liqueurs",
+        "dsc": "cherry"
+    },
+    {
+        "nm": "Wray & Nephew Rum Cream",
+        "cat": "Cream liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "X-Rated Fusion Liqueur",
+        "cat": "Fruit liqueurs",
+        "dsc": "blood orange, mango and passion fruit"
+    },
+    {
+        "nm": "Xaica",
+        "cat": "Flower liqueurs",
+        "dsc": "Hibiscus"
+    },
+    {
+        "nm": "Xtabentún-Mexico",
+        "cat": "Anise-herbal-flavored liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "XUXU",
+        "cat": "Berry liqueurs",
+        "dsc": "strawberry"
+    },
+    {
+        "nm": "Y Chilli",
+        "cat": "Other liqueurs",
+        "dsc": "cinnamon, chili peppers, and other ingredients"
+    },
+    {
+        "nm": "Yukon Jack",
+        "cat": "Honey liqueurs",
+        "dsc": ""
+    },
+    {
+        "nm": "Yukon Jack",
+        "cat": "Whisky liqueurs",
+        "dsc": "Canadian whisky, honey"
+    },
+    {
+        "nm": "Zen",
+        "cat": "Other herbal liqueurs",
+        "dsc": "matcha green tea from Kyoto, Japan, with lemon grass and other herbs. Manufactured by Suntory"
+    },
+    {
+        "nm": "Zurawinówka",
+        "cat": "Berry liqueurs",
+        "dsc": "cranberry"
+    }
+]

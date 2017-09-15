@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+import { View } from 'react-native';
+// app component
+import { RootContainer } from '../../Containers';
 
-// component style
-import { style } from './style';
 /**
  * Provides an entry point into our application.  Both index.ios.js and index.android.js
  * call this component first.
@@ -28,8 +28,8 @@ class AppComponent extends Component<AppProps, AppStateProps>  {
 
     public render(): JSX.Element {
         return (
-            <View style={style.container}>
-                <Text> Hello Typescript </Text>
+            <View>
+                <RootContainer />
             </View>
         );
     }
