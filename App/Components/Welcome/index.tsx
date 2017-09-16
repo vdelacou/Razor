@@ -29,8 +29,8 @@ class WelcomeComponent extends Component<WelcomeProps, WelcomeState> {
 
         const { beverages } = this.props;
 
-        function keyExtractor(beverage: BeverageWelcomeProps, index: number): string {
-            return beverage.beverageCategory + index;
+        function keyExtractor(beverage: BeverageWelcomeProps, _index: number): string {
+            return beverage.beverageCategory;
         }
 
         function renderItem(): ListRenderItem<BeverageWelcomeProps> {
