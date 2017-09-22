@@ -8,7 +8,7 @@ import { logger } from 'redux-logger';
 // app component
 import { rootSaga } from '../../Sagas';
 import { REDUX_PERSIST } from '../../Config';
-import { loadingReducer, beverageReducer } from '../../Redux';
+import { loadingReducer, beverageReducer, tabNavigationReducer } from '../../Redux';
 
 
 const updateReducers = <S>(store: Store<S>) => {
@@ -68,9 +68,9 @@ function createGenericStore<S>(rootReducer: Reducer<S>, sagaFunction: () => Iter
 
 /* ------------- Assemble The Reducers ------------- */
 const customRootReducer = combineReducers({
+    tabNavReducer: tabNavigationReducer,
     beverageReducer: beverageReducer,
     loadingReducer: loadingReducer,
 });
 
 export const createCustomStore: Store<{}> = createGenericStore(customRootReducer, rootSaga);
-

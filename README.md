@@ -14,7 +14,7 @@ All icons and splashscreen have been generated with: https://github.com/bamlab/g
 Icon must be minimum 512X512
 The splash screen must be 2208X2208 and the artwork should roughly fit within a center square (1200×1200 px).
 
-`yo rn-toolbox:assets --icon .\assets\img\icon.png --splash .\assets\img\splash.png --store`
+`yo rn-toolbox:assets --icon ./App/Assets/IconSplash/icon.png --splash ./App/Assets/IconSplash/splash.png --store`
 
 I  got a problem so I have  to change in \android\app\src\main\res\values\colors.xml rgba(0,0,0,0) by #000000 or whatever the color you like
 Then have to launch several times react-native run-android
@@ -22,10 +22,13 @@ Then have to launch several times react-native run-android
 To update: `react-native-git-upgrade`
 
 if pb:
+
+rm -rf node_modules
+rm -rf android\build
+rm -rf android\app\build
+yarn
 react-native link
-rm -rf \node_modules
-rm -rf \android\build
-rm -rf \android\app\build
+
 
 * v 0.0.3 Add redux, react-redux, redux-sagaredux-persist, redux-persist-transform-encrypt, redux-logger. Create store and api call with loading reducer. Create first screen with data got by api
 * v 0.0.2 Hello world with typescript

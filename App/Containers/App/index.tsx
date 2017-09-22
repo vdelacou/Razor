@@ -4,6 +4,15 @@ import { Provider } from 'react-redux';
 import { createCustomStore } from '../../Store';
 import { RootContainer } from '../RootContainer';
 
+// component own props
+interface AppOwnProps { }
+
+// component props
+interface AppProps extends AppOwnProps { }
+
+// component State
+interface AppStateProps { }
+
 /**
  * Provides an entry point into our application.  Both index.ios.js and index.android.js
  * call this component first.
@@ -15,16 +24,6 @@ import { RootContainer } from '../RootContainer';
  *
  * We separate like this to play nice with React Native's hot reloading.
  */
-
-// component own props
-interface AppOwnProps { }
-
-// component props
-interface AppProps extends AppOwnProps { }
-
-// component State
-interface AppStateProps { }
-
 class AppComponent extends Component<AppProps, AppStateProps>  {
 
     public render(): JSX.Element {
